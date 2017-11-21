@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283857334059",
+    "firebase_url": "https://pushchatboot.firebaseio.com",
+    "project_id": "pushchatboot",
+    "storage_bucket": "pushchatboot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283857334059:android:b757723a3f115453",
+        "android_client_info": {
+          "package_name": "com.opm.pushchatboot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283857334059-np07rf00akimnevinkalf4bsooiput7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpKY1ZtPwSMrbhr6jGHmWU4ml8_RuU58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
